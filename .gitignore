@@ -1,0 +1,12 @@
+/data/Polyvore/processed/
+/data/Polyvore/raw/images/
+/data/Polyvore/raw/polyvore_image_vectors/
+/data/Polyvore/raw/polyvore_text_onehot_vectors/
+/model/*.pkl
+/data/Polyvore/raw/category_summarize_100.json
+/data/Polyvore/raw/cid2rcid_100.json
+/data/Polyvore/raw/filtered_training_outfits_processed.json
+/data/Polyvore/raw/filtered_training_outfits.json
+/data/Polyvore/raw/train_outfits_info_new.json
+/data/Polyvore/raw/train_outfits_info.json
+/__pycache__/
